@@ -24,8 +24,7 @@ function getAll() {
 
 
 ----------
-Hotel
-item
+
 
 <!DOCTYPE html>
 <html lang="en">
